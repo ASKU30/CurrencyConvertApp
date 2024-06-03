@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyConvertCompose</string>
+    <string name="last_updated">"Last Updated: "</string>
+</resources>

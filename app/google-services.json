@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154007540252",
+    "project_id": "currencyconvertcompose",
+    "storage_bucket": "currencyconvertcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154007540252:android:07f186407934bfcfc305d9",
+        "android_client_info": {
+          "package_name": "com.example.currencyconvertcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQeg8--bOaVan9lWn420x6bvnHUaTohk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
